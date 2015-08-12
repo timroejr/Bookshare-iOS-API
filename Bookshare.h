@@ -12,4 +12,6 @@
 
 //-(void)downloadBooksWithPassword:(NSString *)passwordToConvert Username:(NSString *)username API_Key:(NSString *)apiKey Content_ID:(NSString *)contentId;
 
+-(void)saveBookWithId:(NSString *)contentId;
+
 @end

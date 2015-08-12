@@ -39,4 +39,8 @@
     NSLog(@"Response From Server: %@", responseText);
 }
 
+-(void)saveBookWithId:(NSString *)contentId {
+    
+}
+
 @end
